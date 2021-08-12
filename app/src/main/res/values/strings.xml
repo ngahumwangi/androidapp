@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Healthy Life</string>
+    <string name="fruit_button">Fruits</string>
+    <string name="bread_button">Bread</string>
+    <string name="vegetable_button">Vegetables</string>
+    <string name="soup_button">Soup</string>
+    <string name="feedbacktitle">Enter the recipe details to synchronise</string>
+    <string name="feedbackname">recipename</string>
+    <string name="feedbackemail">ingredients</string>
+    <string name="feedback_type"> Choose Category:</string>
+    <string name="feedbacktype1">Bread</string>
+    <string name="feedbacktype2">Soap</string>
+    <string name="feedbacktype3">Vegetables</string>
+    <string name="feedbacktype4">Fruits</string>
+
+    <string name="feedbackbody">Instructions</string>
+    <string name="feedbackbutton">Add</string>
+    <string name="deletebutton">Delete</string>
+</resources>
